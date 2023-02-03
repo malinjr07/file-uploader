@@ -26,6 +26,6 @@ The Codes are completely client-side. (_useEffect hook_) Which any developer has
 
 This means a lot to me and I'd like to say, **I'm open for work** If you think I'm suitable for any job that you're currently having in your mind, please don't hasitate to reach me out.
 
-**[Email Me]**(mailto:malinjr07@gmail.com)
+**[Email Me](mailto:malinjr07@gmail.com)**
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/drag-and-drop-uploader-devfirm)
