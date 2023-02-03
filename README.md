@@ -1,3 +1,3 @@
-# file-uploader
+# Drag and Drop File Upload in Reactjs / Nextjs
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/malinjr07-devfirm)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/drag-and-drop-uploader-devfirm)
