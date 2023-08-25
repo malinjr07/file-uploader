@@ -1,32 +1,34 @@
-# Drag and Drop File Upload in Reactjs / Nextjs
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## A Custom Made Drag-and-Drop Image/File Uploader
+## Getting Started
 
-**It's interesting**
+First, run the development server:
 
-You Should Try it too.!
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
 
-### As A Beginner
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-I have been wondering how can I make various image uploader. The Packages doesn't provide much of a support on customization, neither we have _plenty_ of resources. That's why, I have taken an initiative to build a Drag-And-Drop Builder.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-### No Extra/3rd party Library has used
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-**As I mention Before** No packages satisfied me, so I just built this one in Reactjs, Tailwind CSS
+## Learn More
 
-### But You have used Next.js Cheater!
+To learn more about Next.js, take a look at the following resources:
 
-Because, even Reactjs suggest to use Next.js for Server-Side Projects. And as a developer, we all know, **Most of the projects are connected with server, and has complex UI**. So, I have just used the Framework on top of React.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-### But Hey don't worry, I haven't used any Server-Side Feature of Next.js
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-The Codes are completely client-side. (_useEffect hook_) Which any developer has learned as a beginner of ReactJs journey.
+## Deploy on Vercel
 
-## Thank you for visiting My Works.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-This means a lot to me and I'd like to say, **I'm open for work** If you think I'm suitable for any job that you're currently having in your mind, please don't hesitate to reach me out.
-
-**[Email Me](mailto:malinjr07@gmail.com)** <br/>
-**[Visit My LinkedIn Profile](https://www.linkedin.com/in/malinjr07/)**
-
-[Visit on StackBlitz ⚡️](https://stackblitz.com/edit/drag-and-drop-uploader-devfirm)
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
